@@ -45,3 +45,4 @@ if dry_run:
     print(f'\n{k} file{"s" if k>1 else ""} can be removed.')
 else:
     print(f'\nRemoved {k} file{"s" if k>1 else ""}')
+
